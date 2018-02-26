@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\Debug\DesignAssignment1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DesignAssignment1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DesignAssignment1.map</FILE>
+  <FILE>DesignAssignment1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <startProgram><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>58</LINE></startProgram>
+  <divByFive><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>69</LINE></divByFive>
+  <notDivisible><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>88</LINE></notDivisible>
+  <divFiveCarry><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>84</LINE></divFiveCarry>
+  <checkThreeHundred><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>99</LINE></checkThreeHundred>
+  <nonDivFiveCarry><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>95</LINE></nonDivFiveCarry>
+  <decHigh><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>105</LINE></decHigh>
+  <done><FILE>C:\Users\tenni\Documents\Atmel Studio\7.0\DesignAssignment1\DesignAssignment1\main.asm</FILE><LINE>113</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>
